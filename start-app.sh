@@ -1,0 +1,1 @@
+-e "#!/bin/bash\nnpm install --omit=dev\nnpm start" 
